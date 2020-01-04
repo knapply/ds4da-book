@@ -1,7 +1,7 @@
 ---
 title: "Data Science for Defense Analysis"
 subtitle: ""
-author: "Brendan Knapp"
+author: "Brendan Knapp and Christopher Callaghan"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
