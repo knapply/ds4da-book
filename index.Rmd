@@ -29,11 +29,3 @@ knitr::write_bib(
 # Welcome {-}
 
 Test
-
-# Who's this book for? {-}
-
-## Why? {-}
-
-## What will I learn? {-}
-
-## What won't I learn? {-}

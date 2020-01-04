@@ -2,7 +2,7 @@
 title: "Data Science for Defense Analysis"
 subtitle: ""
 author: "Brendan Knapp and Christopher Callaghan"
-date: "2020-01-03"
+date: "2020-01-04"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -23,11 +23,3 @@ description: "A Companion Textbook to DA 3440: Data Science for Defense Analysis
 # Welcome {-}
 
 Test
-
-# Who's this book for? {-}
-
-## Why? {-}
-
-## What will I learn? {-}
-
-## What won't I learn? {-}

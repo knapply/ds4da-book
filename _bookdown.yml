@@ -4,7 +4,15 @@ delete_merged_file: true
 
 rmd_files: [
   "index.Rmd",
-  "intro.Rmd",
+  
+  "preface.Rmd",
+  
+  "setup.Rmd",
+  "setup-r-and-rstudio.Rmd",
+  "setup-coding-basics.Rmd",
+  "setup-projects.Rmd",
+  "setup-version-control.Rmd",
+  "setup-rmarkdown.Rmd",
 
-  "foundation.Rmd"
+  "da1.Rmd"
 ]
