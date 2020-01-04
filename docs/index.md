@@ -15,7 +15,7 @@ colorlinks: true
 github-repo: knapply/ds4da
 cover-image: images/cover.png
 url: ''
-description: "A practical guide to data science for defense, security, intelligence, and law enforcement analysts."
+description: "A Companion Textbook to DA 3440: Data Science for Defense Analysis"
 ---
 
 
