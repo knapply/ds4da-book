@@ -11,3 +11,4 @@ Authors@R: c(person(given = "Brendan", family = "Knapp",
 Depends: R (>= 3.3.0)
 Imports:
   bookdown
+RoxygenNote: 7.0.2
