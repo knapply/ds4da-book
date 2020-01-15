@@ -14,5 +14,31 @@ rmd_files: [
   "setup-version-control.Rmd",
   "setup-rmarkdown.Rmd",
 
-  "da1.Rmd"
+  "da1.Rmd",
+  "da1-importing-data.Rmd",
+  "da1-dataframes.Rmd",
+  "da1-tidy-data.Rmd",
+  "da1-exporting-data.Rmd",
+  
+  "da2.Rmd",
+  "da2-text.Rmd",
+  "da2-dates-times.Rmd",
+  
+  "da3.Rmd",
+  "da3-relational-data.Rmd",
+  
+  "programming.Rmd",
+  "programming-objects.Rmd",
+  "programming-control-structures.Rmd",
+  "programming-functions.Rmd",
+  "programming-iteration.Rmd",
+  
+  "visualization.Rmd",
+  
+  "spatial.Rmd",
+  
+  "graphs-networks.Rmd",
+  
+  "data-in-the-wild.Rmd"
+  
 ]

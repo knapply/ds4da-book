@@ -1,4 +1,4 @@
-# Version Control {#version-control}
+# Version Control {#setup-version-control}
 
 
 

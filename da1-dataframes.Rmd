@@ -1,0 +1,37 @@
+# Data Frames {#da1-dataframes}
+
+## Select Columns
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/diagrams/select.png")
+```
+
+
+## Filter Rows
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/diagrams/filter.png")
+```
+
+## Mutate Columns
+
+```{r, echo=FALSE}
+knitr::include_graphics("images/diagrams/mutate.png")
+```
+
+## Arrange Rows
+
+## Rename Columns
+
+## Group Rows and Summarize
+
+
+## Additional Resources
+
+* Package Websites:
+  + [`{dplyr}`](https://dplyr.tidyverse.org/)
+  + [`{data.table}`](https://rdatatable.gitlab.io/data.table/)
+* Cheat Sheets:
+  + [Data Transformation with `{dplyr}`](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+  + [Data Wrangling with `{dplyr}` and `{tidyr}`](https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+  + [Data Transformation with `{data.table}`](https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf)
