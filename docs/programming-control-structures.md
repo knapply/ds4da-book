@@ -3,6 +3,7 @@
 ## Logic
 
 * `TRUE` and `FALSE`
+* `==`, `!=`, and `identical()`
 * `&` and `&&`
 * `|` and `||`
 
