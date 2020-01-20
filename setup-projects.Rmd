@@ -1,4 +1,4 @@
-# Projects {#projects}
+# Projects {#setup-projects}
 
 ## Working Directory
 

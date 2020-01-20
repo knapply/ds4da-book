@@ -16,13 +16,13 @@ rmd_files: [
 
   "da1.Rmd",
   "da1-importing-data.Rmd",
-  "da1-dataframes.Rmd",
+  "da1-data-frames.Rmd",
   "da1-tidy-data.Rmd",
   "da1-exporting-data.Rmd",
   
   "da2.Rmd",
   "da2-text.Rmd",
-  "da2-dates-times.Rmd",
+  "da2-dates-and-times.Rmd",
   
   "da3.Rmd",
   "da3-relational-data.Rmd",

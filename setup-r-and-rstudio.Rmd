@@ -1,4 +1,4 @@
-# R and RStudio {#r-and-rstudio}
+# R and RStudio {#setup-r-and-rstudio}
 
 ## R
 

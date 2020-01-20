@@ -1,3 +1,3 @@
-# Coding Basics {#coding-basics}
+# Coding Basics {#setup-coding-basics}
 
 ## Syntax

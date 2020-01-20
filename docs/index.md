@@ -2,7 +2,7 @@
 title: "Data Science for Defense Analysis"
 subtitle: ""
 author: "Brendan Knapp and Christopher Callaghan"
-date: "2020-01-15"
+date: "2020-01-20"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
 output: bookdown::gitbook

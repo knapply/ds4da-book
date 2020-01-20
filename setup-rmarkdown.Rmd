@@ -1,4 +1,4 @@
-# R Markdown {#rmarkdown}
+# R Markdown {#setup-rmarkdown}
 
 ## Reproducibility
 
